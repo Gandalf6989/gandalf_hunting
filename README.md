@@ -1,5 +1,4 @@
-# gandalf_hunting
-Fivem Hunting Script
+# Fivem Hunting Script
 
 Simple old but sure script!
 
